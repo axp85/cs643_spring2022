@@ -1,0 +1,48 @@
+********Logistical Regression Matrix***************
+
+Class 3.000000 F1 score = 0.000000
+
+Class 4.000000 F1 score = 0.000000
+
+Class 5.000000 F1 score = 0.656716
+
+Class 6.000000 F1 score = 0.569343
+
+Class 7.000000 F1 score = 0.571429
+
+Class 8.000000 F1 score = 0.000000
+
+Weighted F1 score = 0.580763
+
+********Decision Tree Matrix***************
+
+Class 3.000000 F1 score = 0.000000
+
+Class 4.000000 F1 score = 0.000000
+
+Class 5.000000 F1 score = 0.598639
+
+Class 6.000000 F1 score = 0.357143
+
+Class 7.000000 F1 score = 0.509804
+
+Class 8.000000 F1 score = 0.000000
+
+Weighted F1 score = 0.462126
+
+********Random Forest Matrix***************
+
+Class 3.000000 F1 score = 0.000000
+
+Class 4.000000 F1 score = 0.000000
+
+Class 5.000000 F1 score = 0.606897
+
+Class 6.000000 F1 score = 0.545455
+
+Class 7.000000 F1 score = 0.240000
+
+Class 8.000000 F1 score = 0.000000
+
+Weighted F1 score = 0.504936
+
